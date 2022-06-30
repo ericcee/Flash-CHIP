@@ -1,4 +1,7 @@
 # Flash-CHIP
+
+Important: This script does not work in a WSL(Windows Linux Subsystem) Enviroment
+
 Ready to use Flash environment for the C.H.I.P Single Board Computer
 
 Simplyfies the Flashing Process for the C.H.I.P and PocketC.H.I.P Computer. 
