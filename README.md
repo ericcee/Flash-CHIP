@@ -1,6 +1,6 @@
 # Flash-CHIP
 
-Important: This script does not work in a WSL(Windows Linux Subsystem) environment. Please ensure your running this Script in a Linux environment without Windows as background to prevent driver issues.
+Important: This script does not work in a WSL(Windows Linux Subsystem) environment. Please ensure running this Script in a Linux environment without Windows as background to prevent driver issues.
 
 Ready to use Flash environment for the C.H.I.P Single Board Computer
 
